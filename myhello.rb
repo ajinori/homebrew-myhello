@@ -1,6 +1,6 @@
 require 'formula'
 
-class Hello < Formula
+class Myhello < Formula
 	homepage 'https://github.com/takahiro600/hello/'
 	url 'https://github.com/takahiro600/hello.git'
 	version '0.0.1'
