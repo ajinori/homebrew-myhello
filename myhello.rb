@@ -6,6 +6,6 @@ class Hello < Formula
 	version '0.0.1'
 
 	def install
-		bin.install "hello"
+		prefix.install "bin"
 	end
 end
